@@ -1,0 +1,47 @@
+,count,unique,top,freq,mean,std,min,25%,50%,75%,max
+id,8173,8173,FKID000000,1,,,,,,,
+event_type,8173,2,unplanned,7706,,,,,,,
+latitude,8173.0,,,,12.987075708474244,0.06010886814010768,12.8010411,12.9516353,12.9828467,13.0268667,13.2675104
+longitude,8173.0,,,,77.5960335254154,0.061192851987184195,77.30873108,77.5567474,77.58946,77.6258529,77.76940255
+endlatitude,8004.0,,,,1.1280504079160418,3.7368450333064422,0.0,0.0,0.0,0.0,59.86013252
+endlongitude,8004.0,,,,6.678010555618441,21.761316149116762,0.0,0.0,0.0,0.0,80.72069138
+address,8170,3089,"Outer Ring Road, Karthik Nagar, Marathahalli, Bengaluru, Karnataka. Pin-560037 (India)",88,,,,,,,
+end_address,687,561,"Outer Ring Road, CQAE Staff Quarters, Yeshwanthpur, Bengaluru, Karnataka. Pin-560022 (India)",6,,,,,,,
+event_cause,8173,17,vehicle_breakdown,4896,,,,,,,
+requires_road_closure,8173,2,False,7497,,,,,,,
+start_datetime,8173,8060,2024-01-16 23:18:15.118206+00,52,,,,,,,
+end_datetime,490,459,2024-03-18 03:05:46+00,9,,,,,,,
+status,8173,3,closed,7095,,,,,,,
+authenticated,8173,2,yes,7166,,,,,,,
+modified_datetime,8173,8173,2024-03-07 19:35:47.871698+00,1,,,,,,,
+map_file,0.0,,,,,,,,,,
+direction,43,8,south_west,12,,,,,,,
+description,6813,5542,Starting problem,80,,,,,,,
+veh_type,4887,10,bmtc_bus,1466,,,,,,,
+veh_no,4886,4212,FKN00GL0784,7,,,,,,,
+corridor,8153,22,Non-corridor,3124,,,,,,,
+priority,8171,2,High,5030,,,,,,,
+cargo_material,276,138,Goods,23,,,,,,,
+reason_breakdown,276,193,Starting problem,22,,,,,,,
+age_of_truck,276.0,,,,235.518115942029,634.0598162474184,0.0,5.0,10.0,15.0,2026.0
+created_date,8173,8172,2023-06-29 04:05:46+00,2,,,,,,,
+route_path,137,83,[],51,,,,,,,
+client_id,8173.0,,,,1.0097883274195523,0.09845660023588707,1.0,1.0,1.0,1.0,2.0
+created_by_id,8171,1898,FKUSR00105,104,,,,,,,
+last_modified_by_id,8170,304,FKUSR00001,7091,,,,,,,
+assigned_to_police_id,128,62,FKUSR01441,52,,,,,,,
+citizen_accident_id,128,77,FKUSR01442,52,,,,,,,
+comment,0.0,,,,,,,,,,
+police_station,8173,54,Yelahanka,377,,,,,,,
+meta_data,0.0,,,,,,,,,,
+kgid,7914,1853,FKKG000099,104,,,,,,,
+resolved_at_address,74,58,"Yeshwanthpura TTMC Bus Stand Road, Salarpuria Satva Luxuria, Malleshwaram West, Bengaluru, Karnataka. Pin-560055 (India)",8,,,,,,,
+resolved_at_latitude,74.0,,,,13.002599244594595,0.0913766775072525,12.8415683,12.9476558,12.98371525,13.019589775,13.2572966
+resolved_at_longitude,74.0,,,,77.56904867837838,0.05724601820688986,77.3908201,77.54378227500001,77.5561347,77.589899425,77.7126622
+closed_by_id,3141,1225,FKUSR00105,54,,,,,,,
+closed_datetime,3141,3141,2024-01-30 04:56:03.281509+00,1,,,,,,,
+resolved_by_id,74,42,FKUSR01665,8,,,,,,,
+resolved_datetime,74,74,2024-01-30 04:17:46.828355+00,1,,,,,,,
+gba_identifier,3444,5,Bengaluru Central Corporation,892,,,,,,,
+zone,3444,10,Central Zone 2,623,,,,,,,
+junction,2510,294,MekhriCircle,64,,,,,,,

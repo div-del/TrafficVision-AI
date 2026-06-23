@@ -1,0 +1,2 @@
+cluster_id,incident_count,avg_res_time,latitude,longitude,crit_pct,norm_density,norm_res,risk_score,risk_category,curr_month_incidents,prev_month_incidents,growth_rate,risk_trend
+0,2404,72.11382804657515,12.9864257574792,77.59335517733777,11.813643926788686,100.0,100.0,73.5440931780366,High,177,561,-0.6832740213523132,Improving
